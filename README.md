@@ -24,3 +24,4 @@ require ‘<путь к другому файлу от корневого кат
 
 https://habr.com/ru/post/437694/
 
+![Image](https://github.com/DeadDino/FileWorker/blob/main/Jo-MaduVrac46JxsJvSSdzns3Gi30HPa0wQ9AgpygoUtVLOgAfKJzBLKA8NtLlTP9fzbTY3UkLg7vfEOhdYxp3Vr.png)
