@@ -25,3 +25,11 @@ require ‘<путь к другому файлу от корневого кат
 https://habr.com/ru/post/437694/
 
 ![Image](https://github.com/DeadDino/FileWorker/blob/main/Jo-MaduVrac46JxsJvSSdzns3Gi30HPa0wQ9AgpygoUtVLOgAfKJzBLKA8NtLlTP9fzbTY3UkLg7vfEOhdYxp3Vr.png)
+
+## Структура 
+
+Main - класс, являющийся входом в программу и проверяющий входные данные
+
+MyFileVisitor - класс, содержащий набор методов, которые следует выполнить во время посещения текущего файла
+
+FileWorker - класс, который производит сборку, сортировку и запись в файл
